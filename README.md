@@ -1,5 +1,5 @@
 # MutationZero
 
-Ranking Dataset Mutations Using Combined Annotation and Gene Network Approach Edit
+Ranking Dataset Mutations Using Combined Annotation and Gene Network Approach
 
 
